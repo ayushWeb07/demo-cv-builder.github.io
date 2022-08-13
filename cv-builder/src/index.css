@@ -1,0 +1,12 @@
+/* Primary color --> #00ffee; */
+/* Dark color --> #010012 */
+
+*{
+  margin:0;
+  padding: 0%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body{
+  background: #010012;
+}

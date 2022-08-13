@@ -1,0 +1,28 @@
+.cv_section{
+    padding: 5%;
+    display: none;
+}
+
+.cv_section >h1{
+color: #00ffee;
+font-size: 50px;
+font-weight: 600;
+margin-bottom: 2%;
+}
+
+#download_cv{
+    color: #010012;
+    background: #00ffee;
+    padding: 5px 10px;
+    border: 2px solid #00ffee;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 2%;
+}
+
+#download_cv:hover{
+    color: #00ffee;
+    background: transparent;
+    cursor: pointer;
+}
